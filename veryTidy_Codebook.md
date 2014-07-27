@@ -14,6 +14,7 @@ The remaining 66 columns contain the names of 33 measurements and either the mar
 Altogether, these columns are labeled:
 
 "1" "subject"
+
 "2" "activity"
 "3" "tBodyAcc-mean()-X"
 "4" "tBodyAcc-mean()-Y"
